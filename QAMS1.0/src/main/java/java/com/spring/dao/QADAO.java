@@ -1,4 +1,4 @@
-package com.spring.qaport.dao;
+package java.com.spring.dao;
 
 import java.util.List;
 import java.util.Map;
